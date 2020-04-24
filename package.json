@@ -41,6 +41,12 @@
     "protractor": "~5.4.0",
     "ts-node": "~7.0.0",
     "tslint": "~5.11.0",
-    "typescript": "~3.1.1"
+    "typescript": "~3.1.1",
+    "webpack-bundle-analyzer": "^3.6.1",
+    "antd-theme-generator": "^1.1.9",
+    "xlsx": "^0.15.6",
+    "@delon/testing": "^9.0.0-rc.2",
+    "ng-alain": "^9.0.0-rc.2",
+    "ng-alain-codelyzer": "^0.0.1"
   }
 }
